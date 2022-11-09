@@ -1,0 +1,29 @@
+/*
+ * The Typekit service used to deliver this font or fonts for use on websites
+ * is provided by Adobe and is subject to these Terms of Use
+ * http://www.adobe.com/products/eulas/tou_typekit. For font license
+ * information, see the list below.
+ *
+ * freight-sans-pro:
+ *   - http://typekit.com/eulas/000000000000000000010b60
+ *   - http://typekit.com/eulas/000000000000000000010b58
+ *
+ * © 2009-2022 Adobe Systems Incorporated. All Rights Reserved.
+ */
+/*{"last_published":"2016-05-03 01:28:49 UTC"}*/
+
+@import url("https://p.typekit.net/p.css?s=1&k=pet5bxj&ht=tk&f=13454.13456&a=6834&app=typekit&e=css");
+
+@font-face {
+font-family:"freight-sans-pro";
+src:url("https://use.typekit.net/af/1709eb/000000000000000000010b60/27/l?subset_id=2&fvd=n7&v=3") format("woff2"),url("https://use.typekit.net/af/1709eb/000000000000000000010b60/27/d?subset_id=2&fvd=n7&v=3") format("woff"),url("https://use.typekit.net/af/1709eb/000000000000000000010b60/27/a?subset_id=2&fvd=n7&v=3") format("opentype");
+font-display:auto;font-style:normal;font-weight:700;font-stretch:normal;
+}
+
+@font-face {
+font-family:"freight-sans-pro";
+src:url("https://use.typekit.net/af/ba2099/000000000000000000010b58/27/l?subset_id=2&fvd=n3&v=3") format("woff2"),url("https://use.typekit.net/af/ba2099/000000000000000000010b58/27/d?subset_id=2&fvd=n3&v=3") format("woff"),url("https://use.typekit.net/af/ba2099/000000000000000000010b58/27/a?subset_id=2&fvd=n3&v=3") format("opentype");
+font-display:auto;font-style:normal;font-weight:300;font-stretch:normal;
+}
+
+.tk-freight-sans-pro { font-family: "freight-sans-pro",sans-serif; }
