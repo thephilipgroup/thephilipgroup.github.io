@@ -62,18 +62,19 @@ section#pane_five {
 h1#logo {
 	position: absolute;
 	z-index: 0;
-	width: 200px;
+	width: 400px;
 	height: 200px;
 	background-color: #000;
 	text-indent: -9999px;
 	top: 30%;
-	left: 50%;
+	left: 45%;
 	margin-top: -65px;
 	margin-left: -100px;
-
-	background: url('../assets/logo.png') center center no-repeat;
+	background: url(../assets/logo.png) center center no-repeat;
 	background-size: 100%;
 }
+
+
 
 h2#hello {
 	position: relative;
